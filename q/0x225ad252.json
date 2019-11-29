@@ -1,0 +1,1 @@
+[{"inputs":[{"name":"_devAddr","type":"address"},{"name":"_thorNode","type":"address"}],"payable":false,"stateMutability":"nonpayable","type":"constructor"}]
